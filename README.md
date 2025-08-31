@@ -2,7 +2,7 @@
 
 This repository contains the Python implementation for my Medium article:  
 
-👉 [Ramanujan’s Door Number Problem — From Street Numbers to Continued Fractions](https://medium.com/)  
+👉 [Ramanujan’s Door Number Problem — From Street Numbers to Continued Fractions](https://medium.com/@shehanpiyumantha310/ramanujans-door-number-problem-from-street-numbers-to-continued-fractions-84cfbd73c040)  
 
 The code explores how Srinivasa Ramanujan solved the famous *House Number Problem* using **continued fractions** and rational approximations to √8.
 
@@ -14,7 +14,8 @@ The code explores how Srinivasa Ramanujan solved the famous *House Number Proble
 ## Author
 
 **Shehan Piyumantha**  
-I write about science — from quantum ideas to everyday tech.  
+I write about science — from quantum ideas to everyday tech. 
+Connect me on Medium (https://medium.com/@shehanpiyumantha310)
 
 ---
 
