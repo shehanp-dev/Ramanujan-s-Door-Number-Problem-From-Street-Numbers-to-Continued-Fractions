@@ -1,4 +1,4 @@
-# Ramanujan’s Door Number Problem
+# Ramanujan’s Door Number Problem Python Implementation 
 
 This repository contains the Python implementation for my Medium article:  
 
