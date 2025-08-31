@@ -15,7 +15,7 @@ The code explores how Srinivasa Ramanujan solved the famous *House Number Proble
 
 **Shehan Piyumantha**  
 I write about science — from quantum ideas to everyday tech. 
-Connect me on Medium (https://medium.com/@shehanpiyumantha310)
+ (https://medium.com/@shehanpiyumantha310)
 
 ---
 
